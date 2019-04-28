@@ -1,0 +1,6 @@
+.post blockquote,.post pre,.post code{
+-webkit-touch-callout:text;
+-webkit-user-select:text;
+-khtml-user-select:text;
+-ms-user-select:text;
+-moz-user-select:text;} 
